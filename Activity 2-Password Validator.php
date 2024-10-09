@@ -11,8 +11,3 @@ do {
 echo "Access Granted.";
 ?>
 
-<form method="post">
-    <label for="password">Please enter the password:</label>
-    <input type="password" name="password" id="password">
-    <button type="submit">Submit</button>
-</form>
